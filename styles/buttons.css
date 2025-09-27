@@ -1,0 +1,33 @@
+.profile-links {
+    margin-top: 1rem;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.profile-links .button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px; 
+    height: 50px;
+    font-size: 0.8rem; 
+    color: white;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+    border: none; 
+}
+
+.profile-links .button:hover {
+    background-color: #900000;
+}
+
+.profile-links .button i {
+    font-size: 1.4rem; 
+    color: #C00000;
+}
+
+.profile-links .button:hover i {
+    color: white; 
+}
