@@ -32,12 +32,10 @@ main p {
 }
 
 .text-block {
-  list-style: none;
   padding: 0;
 }
 
 .text-block li {
-  padding: 0;
   text-align: justify;
   line-height: 1.5;
 }
