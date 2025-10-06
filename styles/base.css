@@ -1,5 +1,5 @@
 html {
-    font-size: calc(14px + 0.25vw); 
+    font-size: 18px; 
     line-height: 1.5;    
 }
 
@@ -25,9 +25,10 @@ main {
 }
 
 main p {
-    text-align: justify;
-    margin-bottom: 1rem;
-    line-height: 1.5;
+  display: table;      
+  width: 100%;
+  text-align: justify;
+  margin-bottom: 0;     
 }
 
 a {
