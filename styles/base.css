@@ -31,6 +31,17 @@ main p {
   margin-bottom: 0;     
 }
 
+.text-block {
+  list-style: none;
+  padding: 0;
+}
+
+.text-block li {
+  padding: 0;
+  text-align: justify;
+  line-height: 1.5;
+}
+
 a {
     color: #C00000; 
     text-decoration: none; 
