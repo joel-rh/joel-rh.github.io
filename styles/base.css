@@ -1,5 +1,5 @@
 html {
-    font-size: 18px; 
+    font-size: calc(14px + 0.25vw); 
     line-height: 1.5;    
 }
 
